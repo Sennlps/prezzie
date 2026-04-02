@@ -2,6 +2,7 @@
   "expo": {
     "name": "Prezzie",
     "slug": "Prezzie",
+    "scheme": "prezzie",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
